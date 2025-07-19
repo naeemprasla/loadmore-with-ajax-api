@@ -15,10 +15,6 @@
 
 ## Installation
 
-### Via npm
-```bash
-npm install jquery-loadmore-pagination
-```
 
 ### Via CDN
 ```html
