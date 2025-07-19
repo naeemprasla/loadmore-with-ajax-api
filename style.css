@@ -1,0 +1,32 @@
+/* Basic styling for pagination */
+.pagination {
+    display: flex;
+    list-style: none;
+    padding: 0;
+}
+
+.pagination .page-item {
+    margin: 0 5px;
+}
+
+.pagination .page-item.active .page-link {
+    font-weight: bold;
+    color: #fff;
+    background: #007bff;
+}
+
+.pagination .page-item.disabled .page-link {
+    opacity: 0.5;
+    pointer-events: none;
+}
+
+/* Loading animation */
+.loading-spinner {
+    text-align: center;
+    padding: 20px;
+}
+
+/* Animation classes */
+.item {
+    transition: opacity 0.3s ease;
+}
