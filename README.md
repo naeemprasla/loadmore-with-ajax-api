@@ -1,6 +1,5 @@
 # jQuery Load More & Pagination Plugin
 
-![Plugin Demo](https://example.com/path-to-demo-gif.gif) *Replace with actual demo GIF*
 
 ## Features
 
