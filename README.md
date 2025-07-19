@@ -22,7 +22,7 @@ npm install jquery-loadmore-pagination
 
 ### Via CDN
 ```html
-<script src="https://cdn.jsdelivr.net/npm/jquery-loadmore-pagination@1.0.0/dist/jquery.loadmore.min.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/naeemprasla/loadmore-with-ajax-api@main/loadmore-noajax.js"></script>
 ```
 
 ### Manual Installation
@@ -32,7 +32,7 @@ npm install jquery-loadmore-pagination
 ```
 2. Include plugin:
 ```html
-<script src="path/to/jquery.loadmore.min.js"></script>
+<script src="loadmore-noajax.js""></script>
 ```
 
 ## Basic Usage
